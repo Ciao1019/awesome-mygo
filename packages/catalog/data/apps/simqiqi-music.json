@@ -1,0 +1,32 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "simqiqi-music",
+	"name": "Echo云音乐",
+	"author": "AtomHH86",
+	"kind": "native",
+	"group": "media",
+	"url": "https://github.com/AtomHH86/simqiqi-music",
+	"repo": "AtomHH86/simqiqi-music",
+	"summary": {
+		"en": "Unofficial NetEase Cloud Music client for macOS: vinyl mode, word-by-word lyrics, weekly reports.",
+		"zh-CN": "macOS 第三方网易云音乐客户端，带黑胶唱机、逐字歌词与听歌周报。",
+		"zh-TW": "macOS 第三方網易雲音樂用戶端，有黑膠唱盤、逐字歌詞與聽歌週報。",
+		"ja": "macOS 向けの非公式な網易雲音楽クライアント。レコード盤モード、一語ずつの歌詞、週間レポート。",
+		"ko": "macOS용 비공식 넷이즈 클라우드 뮤직 클라이언트. 바이닐 모드, 단어별 가사, 주간 리포트."
+	},
+	"description": {
+		"en": "An unofficial NetEase Cloud Music client for macOS, drawn with MyGo's native UI with no web view and forked from mygo-cloudmusic. It signs in by QR code and plays daily picks, playlists, charts, personal FM and podcasts, up to lossless and Hi-Res, with word-by-word lyrics and translations. It adds a vinyl mode, liquid glass panels, a weekly listening report and a sleep timer.",
+		"zh-CN": "macOS 上的第三方网易云音乐客户端，基于 mygo-cloudmusic 二次开发，由 MyGo 原生 UI 绘制，没有 WebView。支持扫码登录，可播放每日推荐、歌单、排行榜、私人 FM 与播客，音质最高可达无损与 Hi-Res，并显示逐字歌词与翻译；另外加入了黑胶唱机模式、液态玻璃界面、听歌周报和睡眠定时器。",
+		"zh-TW": "macOS 上的第三方網易雲音樂用戶端，以 mygo-cloudmusic 為基礎二次開發，由 MyGo 原生 UI 繪製，沒有 WebView。支援掃碼登入，可播放每日推薦、歌單、排行榜、私人 FM 與 Podcast，音質最高可達無損與 Hi-Res，並顯示逐字歌詞與翻譯；另外加入了黑膠唱盤模式、液態玻璃介面、聽歌週報和睡眠定時器。",
+		"ja": "macOS 向けの非公式な網易雲音楽クライアントで、mygo-cloudmusic をもとに開発され、WebView を使わず MyGo のネイティブ UI で描かれています。QR コードでログインし、デイリーおすすめ、プレイリスト、ランキング、パーソナル FM、ポッドキャストをロスレスや Hi-Res まで再生でき、一語ずつ光る歌詞と翻訳も表示します。さらにレコード盤モード、リキッドグラスの画面、週間リスニングレポート、スリープタイマーを加えています。",
+		"ko": "mygo-cloudmusic을 기반으로 만든 macOS용 비공식 넷이즈 클라우드 뮤직 클라이언트로, WebView 없이 MyGo의 네이티브 UI로 그렸습니다. QR 코드로 로그인해 오늘의 추천, 플레이리스트, 차트, 개인 FM, 팟캐스트를 무손실과 Hi-Res 음질까지 재생하며, 단어별 가사와 번역을 보여 줍니다. 여기에 바이닐 모드, 리퀴드 글래스 화면, 주간 감상 리포트, 수면 타이머를 더했습니다."
+	},
+	"icon": {
+		"file": "simqiqi-music.webp"
+	},
+	"screenshot": "simqiqi-music.webp",
+	"provisional": [
+		"screenshot"
+	],
+	"added": "2026-11-06T04:56:38Z"
+}
