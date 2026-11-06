@@ -1,0 +1,32 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "newtofile",
+	"name": "NewToFile",
+	"author": "logdns",
+	"kind": "native",
+	"group": "system",
+	"url": "https://github.com/logdns/newtofile",
+	"repo": "logdns/newtofile",
+	"summary": {
+		"en": "Create new text, code and Office files from Finder's right-click menu or the macOS menu bar.",
+		"zh-CN": "在 Finder 右键菜单或 macOS 菜单栏中新建文本、代码与办公文件。",
+		"zh-TW": "在 Finder 右鍵選單或 macOS 選單列中新增文字、程式碼與辦公檔案。",
+		"ja": "Finder の右クリックやメニューバーから、テキスト・コード・Office ファイルを作成。",
+		"ko": "Finder 우클릭 메뉴나 메뉴 막대에서 텍스트, 코드, Office 파일을 새로 만듭니다."
+	},
+	"description": {
+		"en": "A macOS tool that creates new files from Finder's right-click menu or from the menu bar. It makes TXT, Markdown, RTF, JSON, CSV and HTML files, and real blank DOCX, XLSX and PPTX files when Office or WPS is installed. The main window is drawn with MyGo's native UI; the Finder extension and the file-creation core are written in Swift and AppKit.",
+		"zh-CN": "一款 macOS 小工具，可在 Finder 右键菜单或菜单栏中新建文件。支持 TXT、Markdown、RTF、JSON、CSV 和 HTML；检测到 Office 或 WPS 时，还能用真实模板创建空白的 DOCX、XLSX 和 PPTX。主界面由 MyGo 原生 UI 绘制，Finder 扩展与文件创建核心则用 Swift 和 AppKit 编写。",
+		"zh-TW": "一款 macOS 小工具，可在 Finder 右鍵選單或選單列中新增檔案。支援 TXT、Markdown、RTF、JSON、CSV 和 HTML；偵測到 Office 或 WPS 時，還能用真實範本建立空白的 DOCX、XLSX 和 PPTX。主介面由 MyGo 原生 UI 繪製，Finder 擴充功能與檔案建立核心則以 Swift 和 AppKit 撰寫。",
+		"ja": "Finder の右クリックメニューやメニューバーから新しいファイルを作れる macOS 用ツール。TXT、Markdown、RTF、JSON、CSV、HTML に対応し、Office か WPS が入っていれば、実際のテンプレートから空の DOCX・XLSX・PPTX も作成します。メイン画面は MyGo のネイティブ UI で描かれ、Finder 拡張とファイル作成の中核は Swift と AppKit で書かれています。",
+		"ko": "Finder 우클릭 메뉴나 메뉴 막대에서 새 파일을 만드는 macOS 도구입니다. TXT, Markdown, RTF, JSON, CSV, HTML을 지원하고, Office나 WPS가 설치되어 있으면 실제 템플릿으로 빈 DOCX, XLSX, PPTX 파일도 만듭니다. 메인 창은 MyGo의 네이티브 UI로 그리고, Finder 확장과 파일 생성 핵심부는 Swift와 AppKit으로 작성했습니다."
+	},
+	"icon": {
+		"file": "newtofile.webp"
+	},
+	"provisional": [
+		"icon"
+	],
+	"screenshot": "newtofile.webp",
+	"added": "2026-11-06T07:59:41Z"
+}
