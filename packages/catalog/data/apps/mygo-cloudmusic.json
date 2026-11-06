@@ -1,0 +1,32 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "mygo-cloudmusic",
+	"name": "MyGo 云音乐",
+	"author": "norhorizon",
+	"kind": "native",
+	"group": "media",
+	"url": "https://github.com/norhorizon/mygo-cloudmusic",
+	"repo": "norhorizon/mygo-cloudmusic",
+	"summary": {
+		"en": "A native desktop music player for self-hosted servers: FN Music, Songloft and Subsonic services.",
+		"zh-CN": "自建音乐服务器的原生桌面播放器：飞牛音乐、Songloft、Subsonic。",
+		"zh-TW": "自架音樂伺服器的原生桌面播放器：飛牛音樂、Songloft、Subsonic。",
+		"ja": "自前の音楽サーバー向けプレーヤー。FN Music・Songloft・Subsonic に対応。",
+		"ko": "자체 호스팅 음악 서버용 플레이어. FN Music, Songloft, Subsonic 지원."
+	},
+	"description": {
+		"en": "A desktop music player for self-hosted servers, written in Go and drawn with MyGo's native UI, with no WebView. It connects to FN Music on a NAS, Songloft, and Subsonic-compatible services such as Navidrome and Jellyfin, keeping each platform's accounts, playlists and favorites separate. It caches songs locally, resumes the last queue on reopen, and shows word-by-word lyrics with translations.",
+		"zh-CN": "用 Go 编写、由 MyGo 原生 UI 绘制的桌面音乐播放器，没有 WebView，面向自建音乐服务。可连接 NAS 上的飞牛音乐、Songloft，以及 Navidrome、Jellyfin 等 Subsonic 兼容服务，各平台的账号、歌单与收藏互相独立。听过的歌曲缓存在本机，重新打开可从上次的播放队列与进度继续，并支持逐字歌词与翻译。",
+		"zh-TW": "用 Go 撰寫、由 MyGo 原生 UI 繪製的桌面音樂播放器，沒有 WebView，專為自架音樂服務設計。可連接 NAS 上的飛牛音樂、Songloft，以及 Navidrome、Jellyfin 等 Subsonic 相容服務，各平台的帳號、歌單與收藏互不干擾。聽過的歌曲快取在本機，重新開啟可從上次的播放佇列與進度繼續，並支援逐字歌詞與翻譯。",
+		"ja": "Go で書かれ、MyGo のネイティブ UI で描かれたデスクトップ音楽プレーヤー。WebView はなく、自前の音楽サーバー向けです。NAS 上の FN Music、Songloft、Navidrome や Jellyfin などの Subsonic 互換サービスに接続でき、アカウント、プレイリスト、お気に入りはサービスごとに分かれています。再生した曲はローカルにキャッシュされ、再び開くと前回のキューと位置から続きを再生でき、逐語歌詞と翻訳も表示します。",
+		"ko": "Go로 작성하고 MyGo의 네이티브 UI로 그린 데스크톱 음악 플레이어로, WebView 없이 자체 호스팅 음악 서비스용으로 만들어졌습니다. NAS의 FN Music, Songloft, Navidrome·Jellyfin 같은 Subsonic 호환 서비스에 연결하며, 계정과 플레이리스트, 즐겨찾기는 플랫폼별로 따로 관리됩니다. 들은 곡은 로컬에 캐시되고, 다시 열면 이전 대기열과 위치에서 이어 들으며, 단어 단위 가사와 번역을 보여 줍니다."
+	},
+	"icon": {
+		"file": "mygo-cloudmusic.webp"
+	},
+	"screenshot": "mygo-cloudmusic.webp",
+	"provisional": [
+		"screenshot"
+	],
+	"added": "2026-11-06T09:35:08Z"
+}
