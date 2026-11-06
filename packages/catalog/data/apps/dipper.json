@@ -1,0 +1,29 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "dipper",
+	"name": "Dipper",
+	"author": "steampixel007",
+	"kind": "native",
+	"group": "media",
+	"url": "https://github.com/steampixel007/Dipper",
+	"repo": "steampixel007/Dipper",
+	"summary": {
+		"en": "Follows seasonal anime from Mikan and downloads new episodes with its built-in torrent client.",
+		"zh-CN": "追踪 Mikan 上的当季新番，用内置 BT 下载器自动下载新剧集。",
+		"zh-TW": "追蹤 Mikan 上的當季新番，用內建 BT 下載器自動下載新集數。",
+		"ja": "Mikan の今期アニメを追いかけ、新しい話を内蔵 BitTorrent ダウンローダーで取得。",
+		"ko": "Mikan의 분기 애니메이션을 팔로우하고 새 에피소드를 내장 토렌트 다운로더로 받습니다."
+	},
+	"description": {
+		"en": "A desktop app for following seasonal anime from the Mikan catalog, drawn with MyGo's native UI and needing no browser, Node.js or separate download client. Pick a fansub group and include or exclude title words such as 1080p; while it runs, Dipper checks your follows every 15 minutes and downloads new matching releases itself. The interface is in Chinese.",
+		"zh-CN": "从 Mikan 目录追踪当季新番的桌面应用，由 MyGo 原生 UI 绘制，无需浏览器、Node.js 或单独的下载客户端。选好字幕组，再点选 1080p 等标题关键词来包含或排除；程序运行时每 15 分钟检查一次关注的番剧，并自动下载符合条件的新发布。界面目前为中文。",
+		"zh-TW": "從 Mikan 目錄追蹤當季新番的桌面應用程式，由 MyGo 原生 UI 繪製，不需要瀏覽器、Node.js 或另外的下載用戶端。選好字幕組，再點選 1080p 等標題關鍵字來包含或排除；程式執行時每 15 分鐘檢查一次追蹤的番劇，並自動下載符合條件的新發布。介面目前為中文。",
+		"ja": "Mikan のカタログから今期アニメを追いかけるデスクトップアプリ。MyGo のネイティブ UI で描かれ、ブラウザーも Node.js も別のダウンロードクライアントも要りません。字幕グループを選び、1080p などタイトル中の語を含めるか除外するかで絞り込むと、起動中は 15 分ごとにフォロー中の作品を確認し、条件に合う新しいリリースを自動でダウンロードします。画面は現在中国語です。",
+		"ko": "Mikan 카탈로그에서 분기 애니메이션을 팔로우하는 데스크톱 앱으로, MyGo의 네이티브 UI로 그렸으며 브라우저, Node.js, 별도의 다운로드 클라이언트가 필요 없습니다. 자막 그룹을 고르고 1080p 같은 제목 단어를 포함하거나 제외하면, 실행 중에는 15분마다 팔로우한 작품을 확인해 조건에 맞는 새 릴리스를 직접 내려받습니다. 인터페이스는 현재 중국어입니다."
+	},
+	"icon": {
+		"file": "dipper.webp"
+	},
+	"screenshot": "dipper.webp",
+	"added": "2026-11-06T03:54:55Z"
+}
