@@ -1,0 +1,32 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "tinglan",
+	"name": "听澜 · Tinglan",
+	"author": "kermars39-web",
+	"kind": "native",
+	"group": "media",
+	"url": "https://github.com/kermars39-web/tinglan",
+	"repo": "kermars39-web/tinglan",
+	"summary": {
+		"en": "A third-party NetEase Cloud Music client for macOS with a reworked now-playing page.",
+		"zh-CN": "第三方网易云音乐 macOS 客户端，重做了正在播放页与同步歌词。",
+		"zh-TW": "第三方網易雲音樂 macOS 用戶端，重新打造正在播放頁面與同步歌詞。",
+		"ja": "macOS 向けの非公式 NetEase Cloud Music クライアント。再生画面を刷新。",
+		"ko": "macOS용 서드파티 NetEase Cloud Music 클라이언트. 재생 화면을 새로 꾸몄습니다."
+	},
+	"description": {
+		"en": "A third-party NetEase Cloud Music client for macOS on Apple Silicon, forked from egoist/mygo-cloudmusic and drawn with MyGo's native UI, with no web view. Its focus is the now-playing page, with a background tinted from the cover, synced lyrics with word-by-word highlighting and frosted-glass controls. It also has QR-code login, playlists, search, daily picks, personal FM, podcasts and a mini player.",
+		"zh-CN": "面向 Apple Silicon Mac 的第三方网易云音乐客户端，由 egoist/mygo-cloudmusic 改进而来，用 MyGo 原生 UI 绘制，没有 WebView。重点在正在播放页：随封面取色的背景、同步歌词与逐字高亮、磨砂玻璃控件。另有扫码登录、个人歌单、搜索、每日推荐、私人 FM、播客和迷你播放器。",
+		"zh-TW": "面向 Apple Silicon Mac 的第三方網易雲音樂用戶端，改自 egoist/mygo-cloudmusic，以 MyGo 原生 UI 繪製，沒有 WebView。重點在正在播放頁面：依封面取色的背景、同步歌詞與逐字高亮、霧面玻璃控制項。另有掃碼登入、個人歌單、搜尋、每日推薦、私人 FM、Podcast 與迷你播放器。",
+		"ja": "Apple Silicon の Mac 向けの非公式 NetEase Cloud Music クライアント。egoist/mygo-cloudmusic を改良したもので、MyGo のネイティブ UI で描かれ、WebView はありません。力を入れているのは再生画面で、カバーから色を取った背景、同期歌詞と一語ずつのハイライト、すりガラス風のコントロールを備えます。QR ログイン、プレイリスト、検索、毎日のおすすめ、プライベート FM、ポッドキャスト、ミニプレーヤーにも対応します。",
+		"ko": "Apple Silicon Mac용 서드파티 NetEase Cloud Music 클라이언트로, egoist/mygo-cloudmusic을 개선했으며 MyGo의 네이티브 UI로 그려 WebView가 없습니다. 재생 화면에 공을 들여 커버에서 색을 뽑은 배경, 단어 단위로 강조되는 싱크 가사, 반투명 유리 질감의 컨트롤을 갖췄습니다. QR 로그인, 플레이리스트, 검색, 일일 추천, 개인 FM, 팟캐스트, 미니 플레이어도 지원합니다."
+	},
+	"icon": {
+		"file": "tinglan.webp"
+	},
+	"screenshot": "tinglan.webp",
+	"provisional": [
+		"screenshot"
+	],
+	"added": "2026-11-06T05:15:05Z"
+}
