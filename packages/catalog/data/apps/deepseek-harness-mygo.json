@@ -1,0 +1,32 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "deepseek-harness-mygo",
+	"name": "DeepSeek Harness MyGO",
+	"author": "xinde",
+	"kind": "web",
+	"group": "agents",
+	"url": "https://github.com/xinde/deepseek-harness-mygo",
+	"repo": "xinde/deepseek-harness-mygo",
+	"summary": {
+		"en": "Starts a local deepseek-harness checkout and shows its web UI in the system WebView on macOS.",
+		"zh-CN": "启动本地 deepseek-harness，以系统 WebView 打开其界面。",
+		"zh-TW": "啟動本機 deepseek-harness，以系統 WebView 開啟其介面。",
+		"ja": "ローカルの deepseek-harness を起動し、Web UI を WebView で表示。",
+		"ko": "로컬 deepseek-harness를 실행하고 웹 UI를 시스템 WebView로 보여 줍니다."
+	},
+	"description": {
+		"en": "A macOS launcher for a local deepseek-harness checkout, built with MyGo's web frontend in the system WebView rather than Electron. It finds the checkout, starts it on a loopback port, signs in out of sight and shows its web UI, with a status page, logs and one instance at a time. It shares state with the Electron deepseek-harness-desktop and installs beside it; dsh is built outside the app.",
+		"zh-CN": "用 MyGo 的 Web 前端与系统 WebView 构建的 macOS 启动器，不再携带 Electron。它定位本地 deepseek-harness，在 loopback 端口启动 dsh，于隐藏窗口完成认证后显示其 Web 界面，并提供状态页与日志。它与 Electron 版 deepseek-harness-desktop 共享状态，可并行安装；dsh 需另外构建。",
+		"zh-TW": "以 MyGo 的 Web 前端與系統 WebView 打造的 macOS 啟動器，不再附帶 Electron。它定位本機 deepseek-harness，在 loopback 連接埠啟動 dsh，於隱藏視窗完成認證後顯示其 Web 介面，並提供狀態頁與日誌。它與 Electron 版 deepseek-harness-desktop 共用狀態，可並行安裝；dsh 需另外建置。",
+		"ja": "ローカルの deepseek-harness を起動する macOS 用ランチャー。MyGo の Web フロントエンドとシステムの WebView で作られ、Electron は使いません。checkout を見つけて loopback ポートで dsh を起動し、隠しウィンドウで認証を済ませてから Web UI を表示します。状態ページ、ログ、単一インスタンス動作を備えます。Electron 版の deepseek-harness-desktop と状態を共有して並べてインストールでき、dsh 自体はアプリの外でビルドします。",
+		"ko": "로컬 deepseek-harness를 실행하는 macOS용 런처로, Electron 대신 MyGo의 웹 프런트엔드와 시스템 WebView로 만들었습니다. checkout을 찾아 loopback 포트에서 dsh를 실행하고, 숨은 창에서 인증을 마친 뒤 웹 UI를 보여 주며, 상태 페이지와 로그, 단일 인스턴스 실행을 지원합니다. Electron 버전 deepseek-harness-desktop과 상태를 공유하고 나란히 설치할 수 있으며, dsh는 앱 밖에서 빌드합니다."
+	},
+	"icon": {
+		"file": "deepseek-harness-mygo.webp"
+	},
+	"screenshot": "deepseek-harness-mygo.webp",
+	"provisional": [
+		"screenshot"
+	],
+	"added": "2026-11-06T04:56:38Z"
+}
