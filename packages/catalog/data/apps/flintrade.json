@@ -1,0 +1,21 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "flintrade",
+	"name": "flintrade",
+	"author": "UncertaintyDeterminesYou4ndMe",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade",
+	"repo": "UncertaintyDeterminesYou4ndMe/flintrade",
+	"summary": {
+		"en": "An autonomous paper-trading agent that dreams, remembers, and reviews its own trades."
+	},
+	"description": {
+		"en": "An autonomous paper-trading agent that dreams, remembers, and reviews its own trades."
+	},
+	"added": "2026-11-11T07:10:38Z"
+}
