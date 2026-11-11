@@ -1,0 +1,22 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "transok",
+	"name": "transok",
+	"author": "bent2685",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"group": "system",
+	"url": "https://github.com/bent2685/transok",
+	"repo": "bent2685/transok",
+	"summary": {
+		"en": "这是一个局域网文件分享工具，被分享端不需要安装客户端即可接受分享端的文件。"
+	},
+	"description": {
+		"en": "这是一个局域网文件分享工具，被分享端不需要安装客户端即可接受分享端的文件。"
+	},
+	"added": "2026-11-11T04:36:43Z"
+}
