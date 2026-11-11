@@ -1,0 +1,22 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "nanodoll",
+	"name": "NanoDoll",
+	"author": "Moonvy",
+	"kind": "native",
+	"url": "https://moonvy.com/apps/nano-doll/",
+	"summary": {
+		"en": "A minimal desktop container built for web AI",
+		"zh-CN": "专为网页版 AI 打造的极简桌面容器"
+	},
+	"description": {
+		"en": "A minimal desktop container built for web AI",
+		"zh-CN": "专为网页版 AI 打造的极简桌面容器"
+	},
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"added": "2026-11-11T06:29:23Z"
+}
