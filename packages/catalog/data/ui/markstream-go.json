@@ -6,9 +6,14 @@
 	"tag": "theme",
 	"surface": "native",
 	"summary": {
-		"en": "Streaming Markdown components for MyGo, with an independent Go renderer."
+		"en": "Streaming Markdown components for MyGo's native UI, for LLM chats and long documents: GFM, highlighted code, file diffs, virtualized histories, and optional Mermaid, KaTeX and D2 rendering through a local Chromium.",
+		"zh-CN": "MyGo 原生 UI 的流式 Markdown 组件，面向 LLM 对话和长文档：支持 GFM、代码高亮、文件差异对比和虚拟化消息列表，还可借助本机 Chromium 渲染 Mermaid、KaTeX 和 D2。",
+		"zh-TW": "MyGo 原生 UI 的串流 Markdown 元件，適用於 LLM 對話和長篇文件：支援 GFM、程式碼高亮、檔案差異比對和虛擬化訊息列表，也可透過本機 Chromium 繪製 Mermaid、KaTeX 和 D2。",
+		"ja": "MyGo のネイティブ UI 向けのストリーミング Markdown コンポーネント。LLM との対話や長い文書のためのもので、GFM、コードのハイライト、ファイル差分、仮想化された履歴に対応し、ローカルの Chromium を使って Mermaid、KaTeX、D2 も描画できます。",
+		"ko": "MyGo 네이티브 UI용 스트리밍 Markdown 컴포넌트로, LLM 대화와 긴 문서를 위해 만들어졌습니다. GFM, 코드 하이라이트, 파일 diff, 가상화된 메시지 기록을 지원하며, 로컬 Chromium으로 Mermaid, KaTeX, D2도 렌더링할 수 있습니다."
 	},
 	"repo": "zerob13/markstream-go",
 	"url": "https://github.com/zerob13/markstream-go",
+	"screenshot": "markstream-go.webp",
 	"added": "2026-11-11T03:45:32Z"
 }
